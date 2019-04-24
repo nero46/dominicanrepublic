@@ -81,9 +81,8 @@ p {
 /* Styling for the image in Colonial City page */
 #colonialcity {
 	display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 5%;
+    width: 50%;
+    margin:auto;
 }
 /* Styling for the footer */
 #footer {
